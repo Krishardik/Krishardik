@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishardik&label=Profile%20views&color=0e75b6&style=flat" alt="krishardik" /> </p>
 
-<img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif](https://media1.tenor.com/m/o-wNCEq_6f0AAAAC/pompo-the-cinephile-typing-fast.gif)" width="230" />
+<img align='right' src="https://github.com/Krishardik/Krishardik/blob/main/pompo-the-cinephile-typing-fast.gif" width="320" />
 
 - 🔭 I’m currently working as an **Intern at Prodigy Infotech**
 
