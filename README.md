@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **topics and tools related to Cybersecurity & Ethical Hacking**
 
-- 📫 How to reach me **intethicalwizard8@gmail.com**
+- 📫 Reach me through **intethicalwizard8@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
