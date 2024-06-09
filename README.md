@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working as an **Intern at Cyberdosti**
 
-- 🌱 I’m currently learning **Bash Scripting**
+- 🌱 I’m currently learning **Security+**
 
 - 👯 I’m looking to collaborate on **Python scripts and projects**
 
