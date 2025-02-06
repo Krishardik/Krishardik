@@ -5,9 +5,9 @@
 
 <img align='right' src="https://github.com/Krishardik/Krishardik/blob/main/pompo-the-cinephile-typing-fast.gif" width="320" />
 
-- 🔭 I’m currently working as an **Intern at Cyberdosti**
+- 🔭 I’m currently working as an **Security Engineer Intern at Secureloopholes**
 
-- 🌱 I’m currently learning **Security+**
+- 🌱 Keep Learning Cybersecurity
 
 - 👯 I’m looking to collaborate on **Python scripts and projects**
 
