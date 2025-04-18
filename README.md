@@ -5,7 +5,7 @@
 
 <img align='right' src="https://github.com/Krishardik/Krishardik/blob/main/pompo-the-cinephile-typing-fast.gif" width="320" />
 
-- 🔭 I’m currently working as an **Security Engineer Intern at Secureloopholes**
+- 🔭 I’m currently working as an **InfoSec Intern at Sigmoid Analytics**
 
 - 🌱 Keep Learning Cybersecurity
 
