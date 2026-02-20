@@ -5,7 +5,7 @@
 
 <img align='right' src="https://github.com/Krishardik/Krishardik/blob/main/pompo-the-cinephile-typing-fast.gif" width="320" />
 
-- 🔭 I’m currently working as an *Assoc - Information Security at Sigmoid Analytics**
+- 🔭 I’m currently working as an *Assoc - Information Security at Sigmoid Analytics*
 
 - 🌱 Keep Learning Cybersecurity
 
