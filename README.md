@@ -1,6 +1,6 @@
 # Hi, I'm Hardikkumar Patel 👋
 
-### Security Engineer | Product Security | DevSecOps | AI Security
+### Security Engineer | Enterprise Security | Product Security | DevSecOps | AI Security 
 
 I build and secure software across the application, infrastructure, CI/CD, and AI layers.
 
